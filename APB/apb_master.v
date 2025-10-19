@@ -1,4 +1,4 @@
-module APB_master1(
+module APB_master(
   input clk,
   input rst,
   input pwrite,
